@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Fredoka', sans-serif;
+  background-color: #0F0E17;
+}
+
+h1{
+  color:#E43170;
+  margin: 2.5rem 0;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6{
+  color: #FB8908;
+}
+
+h2,p{
+  margin-bottom: 1.5rem;
+}
+
+.text{
+  color: white;
+}
+
+.container{
+  max-width: 1170px;
+  margin: auto;
+}
+
+section img{
+  height: 200px;
+}
+.section-left img{
+  float: left;
+  margin-right: 1rem;
+}
+
